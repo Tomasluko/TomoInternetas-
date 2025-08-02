@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tomointernetas.info</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #4facfe, #00f2fe);
+      color: #fff;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      font-size: 3em;
+      margin: 0.2em 0;
+    }
+    p {
+      font-size: 1.2em;
+      margin: 0.5em 0;
+    }
+    footer {
+      position: absolute;
+      bottom: 10px;
+      width: 100%;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tomointernetas.info</h1>
+  <p>Sveiki atvykę į mūsų interneto erdvę!</p>
+  <footer>© 2025 Tomointernetas.info</footer>
+</body>
+</html>
